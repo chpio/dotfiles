@@ -1,0 +1,6 @@
+*
+!.gitignore
+!.gitconfig
+!.gitignoreglobal
+!gitmeld.pl
+!gitdiff.pl
