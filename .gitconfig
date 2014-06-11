@@ -5,9 +5,6 @@
 [push]
   default = current
 
-[diff]
-  external = /home/thomas/gitdiff.pl
-
 [alias]
   meld = !/home/thomas/gitmeld.pl
 
