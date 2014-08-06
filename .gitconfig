@@ -5,10 +5,19 @@
 [push]
   default = current
 
-[alias]
-  meld = !/home/thomas/gitmeld.pl
-
 [core]
   excludesfile = ~/.gitignoreglobal
 [merge]
 	tool = meld
+
+[alias]
+	s = status
+	a = add
+	c = commit
+	m = !~/gitmeld.pl
+	co = checkout
+	rs = reset
+	ps = push
+	pl = pull
+	hi = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+
