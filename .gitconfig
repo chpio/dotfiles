@@ -14,7 +14,7 @@
 	s = status
 	a = add
 	c = commit
-	m = !~/gitmeld.pl
+	m = !~/gitmeld
 	co = checkout
 	rs = reset
 	ps = push
