@@ -19,5 +19,7 @@
 	rs = reset
 	ps = push
 	pl = pull
+	sps = svn dcommit
+	spl = svn rebase
 	hi = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
 
