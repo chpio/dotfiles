@@ -1,6 +1,6 @@
 [user]
   name = Thomas Heck
-  email = t@b128.net
+  email = t.heck@neonaut.de
 
 [push]
   default = current
@@ -17,7 +17,8 @@
 	m = !~/gitmeld
 	co = checkout
 	rs = reset
-	ps = push
+  rb = rebase
+  ps = push
 	pl = pull
 	sps = svn dcommit
 	spl = svn rebase
