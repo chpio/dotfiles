@@ -15,6 +15,7 @@
 	s = status
 	a = add
 	c = commit
+	ca = commit --amend
 	m = !~/gitmeld
 	d = diff
 	co = checkout
