@@ -23,6 +23,7 @@
   rb = rebase
   ps = push
 	pl = pull
+	plr = pull --rebase
 	sps = svn dcommit
 	spl = svn rebase
 	hi = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
