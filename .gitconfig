@@ -1,6 +1,6 @@
 [user]
   name = Thomas Heck
-  email = t.heck@neonaut.de
+  email = t@b128.net
 
 [push]
   default = current
@@ -20,8 +20,8 @@
 	d = diff
 	co = checkout
 	rs = reset
-  rb = rebase
-  ps = push
+	rb = rebase
+	ps = push
 	pl = pull
 	plr = pull --rebase
 	sps = svn dcommit
