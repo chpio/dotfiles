@@ -16,6 +16,8 @@
 	a = add
 	c = commit
 	ca = commit --amend
+	st = stash
+	f = fetch
 	m = !~/gitmeld
 	d = diff
 	co = checkout
