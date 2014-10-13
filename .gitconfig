@@ -14,6 +14,7 @@
 [alias]
 	s = status
 	a = add
+	aa = add --all
 	c = commit
 	ca = commit --amend
 	st = stash
