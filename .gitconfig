@@ -1,12 +1,12 @@
 [user]
-  name = Thomas Heck
-  email = t@b128.net
+	name = Thomas Heck
+	email = t@b128.net
 
 [push]
-  default = current
+	default = current
 
 [core]
-  excludesfile = ~/.gitignoreglobal
+	excludesfile = ~/.gitignoreglobal
 	pager = less -x2
 [merge]
 	tool = meld
