@@ -19,6 +19,7 @@
 	ca = commit --amend
 	st = stash
 	f = fetch
+	b = branch
 	m = !~/gitmeld
 	d = diff
 	co = checkout
@@ -29,5 +30,6 @@
 	plr = pull --rebase
 	sps = svn dcommit
 	spl = svn rebase
+	mt = mergetool
 	hi = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
 
