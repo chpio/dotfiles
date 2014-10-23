@@ -25,6 +25,7 @@
 	co = checkout
 	rs = reset
 	rb = rebase
+	cp = cherry-pick
 	ps = push
 	pl = pull
 	plr = pull --rebase
