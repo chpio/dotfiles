@@ -33,4 +33,5 @@
 	spl = svn rebase
 	mt = mergetool
 	hi = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
-
+	ffs = flow feature start
+	fff = flow feature finish
