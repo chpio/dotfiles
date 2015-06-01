@@ -1,0 +1,3 @@
+'.workspace .editor':
+  'ctrl-d': 'unset!'
+  'ctrl-d': 'editor:delete-line'
