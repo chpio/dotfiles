@@ -6,7 +6,6 @@
   core:
     projectHome: "/home/thomas/ws"
     disabledPackages: [
-      "tree-view"
       "background-tips"
     ]
     audioBeep: false
