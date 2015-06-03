@@ -1,3 +1,2 @@
-'.workspace .editor':
-  'ctrl-d': 'unset!'
+'.platform-linux atom-text-editor':
   'ctrl-d': 'editor:delete-line'
