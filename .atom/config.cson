@@ -14,5 +14,6 @@
     fontSize: 14
     invisibles:
       {}
+    softTabs: false
   whitespace:
     ignoreWhitespaceOnCurrentLine: false
