@@ -15,5 +15,6 @@
     invisibles:
       {}
     softTabs: false
+    showInvisibles: true
   whitespace:
     ignoreWhitespaceOnCurrentLine: false
