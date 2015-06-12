@@ -16,5 +16,7 @@
       {}
     softTabs: false
     showInvisibles: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
   whitespace:
     ignoreWhitespaceOnCurrentLine: false
