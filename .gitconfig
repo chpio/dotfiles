@@ -22,6 +22,7 @@
 	b = branch
 	m = !~/gitmeld
 	d = diff
+	dc = diff --cached
 	co = checkout
 	rs = reset
 	rb = rebase
