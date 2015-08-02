@@ -21,6 +21,7 @@
 	f = fetch
 	b = branch
 	m = !~/gitmeld
+	k = !gitk
 	d = diff
 	dc = diff --cached
 	co = checkout
