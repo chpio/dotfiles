@@ -1,6 +1,16 @@
 set tabstop=2
 set shiftwidth=2
 set autoindent
+set noswapfile
+set wildmenu
+filetype plugin indent on
+set number
+set hlsearch
+set ignorecase
+set smartcase
+set incsearch
+
+map Y y$
 
 function! TrimWhiteSpace()
 	%s/\s\+$//e
