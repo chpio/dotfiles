@@ -1,3 +1,0 @@
-#!/bin/sh
-
-exec rip cd rip --offset=6 --output-directory="." --disc-template="%A/%y - %d/%y - %d" --track-template="%A/%y - %d/%t - %a - %n" --working-directory="/tmp"
